@@ -1,0 +1,6 @@
+#Login_Page
+
+
+     username = .//input[@name='pf.username']
+     password = .//input[@name='pf.pass']
+     login =.//button[@id='login']
